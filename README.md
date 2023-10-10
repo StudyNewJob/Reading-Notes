@@ -6,4 +6,12 @@
 
 Hey! My name is Shama. I'm a US Army veteran and cyber security professional who's making the addition/skill addition of programming and swe to my professional skill set.
 
+For me the growth mindset means striving to be the best versions of ourselves every day.
+
+How do I remind myself?
+
+1. Never give up
+2. If today was bad tomorrow has the chance to be better
+3. Learn something new every day
+
 [https://studynewjob.github.io/Reading-Notes/](https://studynewjob.github.io/Reading-Notes/)
