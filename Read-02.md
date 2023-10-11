@@ -6,11 +6,18 @@ First a text editor is a piece of software that you download and install on a co
 
 ### What do the following commands do?  
 Below is a list of commands from the Linux operating system. While the commands may not be universal to other operating systems such as windows, there are likely equivalent commands.  
-**pwd:** PWD means Print Working Directory. It shows what directory you're working from on a computers file system.  
-**ls:** Ls means LiSt lists the files and folders within the working directory.  
-**cd:** Cd means Change Directory. It changes the working directory.  
-**mkdir:** Mkdir means MaKe DIRectory. It makes a directory.  
-**touch:** Touch makes an empty file.  
+##### **pwd:**
+PWD means Print Working Directory. It shows what directory you're working from on a computers file system.  
+##### **ls:**
+Ls means LiSt lists the files and folders within the working directory.  
+##### **cd:**
+Cd means Change Directory. It changes the working directory.  
+##### **mkdir:**
+Mkdir means MaKe DIRectory. It makes a directory.  
+##### **touch:**
+Touch makes an empty file.  
+
+  
 ### Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
 ##### **cd projects**  
 If there is a directory in the current working directory **"cd projects"** will change the working directory to **"projects"**.  
