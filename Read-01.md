@@ -9,10 +9,14 @@ Markdown makes it easier for web designers to work with text heavy pages such as
 
 ## What symbol will create a heading in Markdown?
 Headings are controled by the hashtag, pound, or octothorpe symbol "#"
+
 \# is the H1 heading
 # Heading
+
 \## is H2 heading
+
 ## Heading
+
 \### is the H3 heading
 ### Heading
 
