@@ -15,3 +15,7 @@ How do I remind myself?
 3. Learn something new every day
 
 [https://github.com/StudyNewJob](https://github.com/StudyNewJob)
+
+## Read Sections
+[Read 01](https://studynewjob.github.io/Reading-Notes/Read-01.html) | 
+
