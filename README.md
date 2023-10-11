@@ -14,4 +14,4 @@ How do I remind myself?
 2. If today was bad tomorrow has the chance to be better
 3. Learn something new every day
 
-[https://studynewjob.github.io/Reading-Notes/](https://studynewjob.github.io/Reading-Notes/)
+[https://github.com/StudyNewJob](https://github.com/StudyNewJob)
