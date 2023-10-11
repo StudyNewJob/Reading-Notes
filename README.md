@@ -17,5 +17,5 @@ How do I remind myself?
 [https://github.com/StudyNewJob](https://github.com/StudyNewJob)
 
 ## Read Sections
-[Read 01](https://studynewjob.github.io/Reading-Notes/Read-01.html) | 
+[Read 01](Read-01.md) | 
 
