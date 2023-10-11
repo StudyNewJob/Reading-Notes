@@ -34,13 +34,14 @@ This is \*italics\*
 This is *italics*
 This is also \_italics\_
 
-Bold uses \**two\** asterisks.
+Bold uses \*\*two\*\* asterisks.
 Bold uses **two** asterisks.
 
 For best practices, though underscores do work, it's better to simply use asterisks. Some application don't agree on how to handle underscores in the middle of words.
 
 ## How do you create a link with Markdown?
 You can creat links by blocking the link text in a pair of brackets \[ like this \] and the link destination in a pair of \( parenthesis \).
+\[Home\]\(README.md\)
 
 ## What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 
