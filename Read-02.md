@@ -1,8 +1,8 @@
 # Read: 02 - The Coders Computer  
-The console and text editors are the main way a programmer is able to interact with their computer and it's environment in order to create computer programs.  
+The console and text editors are the main way a programmer is able to interact with their computer and it's environment in order to create computer programs. 
 
 ### What are four important features to look for in a text editor?  
-First a text editor is a piece of software that you download and install on a computer to edit text. For programmers this lets them write programs.  
+First a text editor is a piece of software that you download and install on a computer to edit text. For programmers this lets them write programs. Some features a programmer should look for is auto-completion, syntax highlighting, auto indentation, and most importantly is free.  
 
 ### What do the following commands do?  
 Below is a list of commands from the Linux operating system. While the commands may not be universal to other operating systems such as windows, there are likely equivalent commands.  
