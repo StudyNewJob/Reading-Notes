@@ -22,11 +22,11 @@ Headings are controled by the hashtag, pound, or octothorpe symbol "#"
 
 ## How many do you need to create the largest heading?
 The largest heading, the H1 heading, requires a single octothorpe  
-\#\
+\#
 
 ## How many do you need to create the smallest heading?
 H6 is the smallest heading in markdown and as a result requires six octothorpes  
-\######\
+\######
 
 ## When making text bold or italicized for emphasis, it is best practice to use which symbol?
 Bold and Italics are controlled largely by the asterisk \*. You can also use underscores \_  
