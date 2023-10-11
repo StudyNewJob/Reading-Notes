@@ -5,8 +5,7 @@ The console and text editors are the main way a programmer is able to interact w
 First a text editor is a piece of software that you download and install on a computer to edit text. For programmers this lets them write programs.  
 
 ### What do the following commands do?  
-Below is a list of commands from the Linux operating system. While the commands may not be universal to other operating systems  
-such as windows, there are likely equivalent commands.  
+Below is a list of commands from the Linux operating system. While the commands may not be universal to other operating systems such as windows, there are likely equivalent commands.  
 **pwd:** PWD means Print Working Directory. It shows what directory you're working from on a computers file system.  
 **ls:** Ls means LiSt lists the files and folders within the working directory.  
 **cd:** Cd means Change Directory. It changes the working directory.  
@@ -17,8 +16,11 @@ such as windows, there are likely equivalent commands.
 If there is a directory in the current working directory **"cd projects"** will change the working directory to **"projects"**.  
 ##### **mkdir new-project**  
 The above command will create a new directory named **"new-project"** in the current working directory.
-##### **touch new-project/newfile.md**
-##### **cd ..**
-##### **ls projects/new-project**
+##### **touch new-project/newfile.md**  
+The above command will create a file named **"newfile.md"** in the directory **"new-project"**.
+##### **cd ..**  
+The above command will change directories to the parent directory of the current working directory.
+##### **ls projects/new-project**  
+The above command will list the contents of the **"new-project"** directory if the **"projects"** directory if the **"projects"** directory is a child directory of the current working directory.
 
 [Home](README.md)
