@@ -16,6 +16,11 @@ How do I remind myself?
 
 [https://github.com/StudyNewJob](https://github.com/StudyNewJob)
 
-## Read Sections
-[Read 01](Read-01.md) | [Read 02](Read-02.md)
+## 102 Read Sections
+[Read 01](102Read-01.md) | [Read 02](102Read-02.md) | [Read 03](102Read-03.md) | [Read 04](102Read-04.md) | [Read 05](102Read-05.md) | [Read 06](102Read-06.md) | [Read 07](102Read-07.md) | [Read 08](102Read-08.md) |
+
+## 201 Read Sections Week 1
+[Read 01](201Read-01.md) | [Read 02](201Read-02.md) | [Read 03](201Read-03.md) | [Read 04](201Read-04.md) | [Read 05](201Read-05.md) | [Read 06](201Read-06.md) | [Read 07](201Read-02.md) |
+## 201 Read Sections Week 2
+[Read 9](201Read-02.md) | [Read 10](201Read-10.md) | [Read 11](201Read-11.md) | [Read 12](201Read-12.md) | [Read 13](201Read-13.md) | [Read 14](201Read-14.md) | [Read 15](201Read-15.md) |
 
