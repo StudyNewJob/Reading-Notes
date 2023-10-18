@@ -17,7 +17,7 @@ How do I remind myself?
 [https://github.com/StudyNewJob](https://github.com/StudyNewJob)
 
 ## 102 Read Sections
-[Read 01](/102-Read_Files/102Read-01.md) | [Read 02](Reading-Notes/102-Read_Files/102Read-02.md) | [Read 03](/102-Read_Files/102Read-03.md) | [Read 04](/102-Read_Files/102Read-04.md) | [Read 05](/102-Read_Files/102Read-05.md) | [Read 06](/102-Read_Files/102Read-06.md) | [Read 07](/102-Read_Files/102Read-07.md) | [Read 08](/102-Read_Files/102Read-08.md) 
+[Read 01](/102-Read_Files/102Read-01.md) | [Read 02](/102-Read_Files/102Read-02.md) | [Read 03](/102-Read_Files/102Read-03.md) | [Read 04](/102-Read_Files/102Read-04.md) | [Read 05](/102-Read_Files/102Read-05.md) | [Read 06](/102-Read_Files/102Read-06.md) | [Read 07](/102-Read_Files/102Read-07.md) | [Read 08](/102-Read_Files/102Read-08.md) 
 
 ## 201 Read Sections Week 1
 [Read 01](/201-Read_Files/201Read-01.md) | [Read 02](/201-Read_Files/201Read-02.md) | [Read 03](/201-Read_Files/201Read-03.md) | [Read 04](/201-Read_Files/201Read-04.md) | [Read 05](/201-Read_Files/201Read-05.md) | [Read 06](/201-Read_Files/201Read-06.md) | [Read 07](/201-Read_Files/201Read-02.md) | [Read 08](/201-Read_Files/201Read-08.md)
