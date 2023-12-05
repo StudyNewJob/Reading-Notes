@@ -24,5 +24,5 @@ How do I remind myself?
 ## 201 Read Sections Week 2
 [Read 09](/201-Read_Files/201Read-02.md) | [Read 10](/201-Read_Files/201Read-10.md) | [Read 11](/201-Read_Files/201Read-11.md) | [Read 12](/201-Read_Files/201Read-12.md) | [Read 13](/201-Read_Files/201Read-13.md) | [Read 14](/201-Read_Files/201Read-14.md) | [Read 15](/201-Read_Files/201Read-15.md) 
 ## 301 Read Sections
-[Read 01](/301-Read_Files/301Read-01.md) | [Read 02](/301-Read_Files/301Read-02.md) | [Read 03](/301-Read_Files/301Read-03.md) | [Read 04](/301-Read_Files/301Read-04.md)
+[Read 01](/301-Read_Files/301Read-01.md) | [Read 02](/301-Read_Files/301Read-02.md) | [Read 03](/301-Read_Files/301Read-03.md) | [Read 04](/301-Read_Files/301Read-04.md) | [Read 05](/301-Read_Files/301Read-05.md) | [Read 06](/301-Read_Files/301Read-06.md) | [Read 07](/301-Read_Files/301Read-07.md)
 ## 401 Read Sections
